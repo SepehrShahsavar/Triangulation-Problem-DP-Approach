@@ -1,0 +1,10 @@
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\bin\Debug\Triangulation.exe.config
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\bin\Debug\Triangulation.exe
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\bin\Debug\Triangulation.pdb
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.csprojAssemblyReference.cache
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.Form1.resources
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.Properties.Resources.resources
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.csproj.GenerateResource.cache
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.exe
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.pdb
+C:\Users\Sepehr Shahsavar\source\repos\Triangulation\Triangulation\obj\Debug\Triangulation.Form2.resources
